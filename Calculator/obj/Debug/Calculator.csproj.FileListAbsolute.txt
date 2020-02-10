@@ -1,0 +1,6 @@
+C:\Users\sakal\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\sakal\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\sakal\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\sakal\source\repos\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\sakal\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\sakal\source\repos\Calculator\obj\Debug\Calculator.pdb
